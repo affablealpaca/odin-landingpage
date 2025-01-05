@@ -2,4 +2,4 @@
 
 Project that will show what I learned from HTML/CSS beginner lessons
 
-Not really that good yet imho
+https://affablealpaca.github.io/odin-landingpage/
